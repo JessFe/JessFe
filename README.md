@@ -9,7 +9,7 @@ I'm a Full-Stack developer who loves coding and turning ideas into digital reali
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
 ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
-![TypeScript](https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
 ![CSharp](https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=512BD4)
 ![SQL](https://img.shields.io/badge/_SQL-282C34)
 ![.NET](https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4)
