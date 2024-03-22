@@ -7,6 +7,17 @@ I'm a Full-Stack developer who loves coding and turning ideas into digital reali
 ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3)
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
+![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC)
+![TypeScript](https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6)
+![CSharp](https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=512BD4)
+![.NET](https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4)
+![VSCode](https://img.shields.io/badge/VSCode-282C34?logo=visualstudiocode&logoColor=007ACC)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-282C34?logo=visualstudio&logoColor=5C2D91)
+![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
+![]()
+![]()
+
 
 
 <!--
