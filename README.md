@@ -2,7 +2,11 @@
 I'm a Full-Stack developer who loves coding and turning ideas into digital realities.
 
 ## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/html-282C34?logo=html5&logoColor=E34F26)
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3)
+![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
 
 
 <!--
