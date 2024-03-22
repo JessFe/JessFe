@@ -1,4 +1,9 @@
 # Hey there, I'm Jess 👋
+I'm a Full-Stack developer who loves coding and turning ideas into digital realities.
+
+## 🛠️ Languages and Tools
+![HTML5](https://img.shields.io/badge/html-282C34?logo=html5&logoColor=E34F26)
+
 
 <!--
 **JessFe/JessFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
