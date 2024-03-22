@@ -19,7 +19,7 @@ I'm a Full-Stack developer who loves coding and turning ideas into digital reali
 ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
 
 
-## Reach me
+## 👥 Reach me
 [![Visit my LinkedIn](https://img.shields.io/badge/Visit_my_LinkedIn-282C34?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jessica-ferro-dev)
 
 
